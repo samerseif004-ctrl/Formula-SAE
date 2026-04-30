@@ -21,4 +21,25 @@ Participated in the Formula SAE team as part of the mechanical group, contributi
 - How large engineering projects are managed through teamwork and communication  
 
 ## Images
-Project images are included in the `/images` folder, showing different stages of assembly and system components.
+
+<p float="left">
+  <img src="IMG_6764.jpeg" width="250"/>
+  <img src="IMG_6779.jpeg" width="250"/>
+  <img src="IMG_6814.jpeg" width="250"/>
+</p>
+
+<p float="left">
+  <img src="IMG_7292.jpg" width="250"/>
+  <img src="IMG_9527.jpeg" width="250"/>
+  <img src="IMG_9533.jpeg" width="250"/>
+</p>
+
+<p float="left">
+  <img src="IMG_9538.jpeg" width="250"/>
+  <img src="IMG_9643.jpeg" width="250"/>
+</p>
+
+<p float="left">
+  <img src="IMG_9842.jpeg" width="250"/>
+  <img src="IMG_9850.jpeg" width="250"/>
+</p>
